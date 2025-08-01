@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EMI Locker</string>
+    <string name="lock_service_title">EMI Locker Active</string>
+    <string name="lock_service_text">Lock service is running</string>
+    <string name="device_locked">🔒 DEVICE LOCKED</string>
+    <string name="protecting_device">EMI Locker is protecting your device</string>
+</resources> 
