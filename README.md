@@ -97,4 +97,4 @@ The app requires the following permissions:
 
 ## License
 
-This project is for educational and development purposes. 
+This project is for educational and development purposes.
